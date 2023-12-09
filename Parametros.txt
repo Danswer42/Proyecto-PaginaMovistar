@@ -1,0 +1,13 @@
+Parametros para el proyecto
+
+Realiza una pagina para Movistar la cual tiene que mostrar
+una barra de navegacion que te permita conocer sus productos
+y servicios.
+
+La pagina principal debe mostrar de forma muy resumida, estos 
+productos o servicios
+
+El diseño y colores, quedan por parte del estudiante puede incluso 
+rediseñar el estilo visual de movistar
+
+fecha de entrega: Martes 12/12/23
