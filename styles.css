@@ -51,6 +51,10 @@ nav p a:hover::after{
   width: 70%;
 }
 
+nav a{
+  text-decoration: none;
+}
+
 .btn{
   display: flex;
   justify-content: space-between;
